@@ -6,9 +6,9 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 ///=================ඕවා එඩිට් කරද්දි කිසිම දෙයක් වැරදියට දමන්න එපා !!MAIN-CONFIG===============================
-SESSION_ID: process.env.SESSION_ID || "add season id",  // ADD Your Session Id 
+SESSION_ID: process.env.SESSION_ID || "7R8wUDqB#ZDep6Yw1HyyY_XmQMEtplSV4pSvzqTfU-F25Jz-2dsE",  // ADD Your Session Id 
 //===========================මෙතනට-mongodburl-එකක් ඇඩ්කරගන්න============================================
-MONGODB: process.env.MONGODB || "mongodb+srv://SithumKalhara:97531@cluster0.iva7dbo.mongodb.net/?retryWrites=true&w=majority",
+MONGODB: process.env.MONGODB || "mongodb://mongo:zMqVQAXwIiBYEQrosDzflTLGDEzduIsK@autorack.proxy.rlwy.net:13021",
 //===============================උඩ එකට නැතනම් setting change වෙන්නේ නෑ==================================
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
